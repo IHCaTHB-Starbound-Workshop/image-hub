@@ -1,0 +1,109 @@
+[SIZE=4]Megathread will hold links to all versions of each of my mods so that i only have to update new information for one source.
+
+[QUOTE]publishing my mods is getting in the way of actual design. who wants to manage my mods for me.[/QUOTE]
+
+[SPOILER="Current project focus:"]publishing custom race teaser[/SPOILER]
+Index:
+I. [GOTO="MODS"]Mods[/GOTO]
+[INDENT]a. [GOTO="ORIGINALS"]Originals[/GOTO]
+b. [GOTO="CONTRIBUTIONS"]Contributions[/GOTO]
+c. [GOTO="CURATIONS"]Curations[/GOTO]
+d. [GOTO="COLLABORATIONS"]Collaborations[/GOTO][/INDENT]
+II. [GOTO="ART"]Art[/GOTO]
+III. [GOTO="REQUESTS"]Requests[/GOTO]
+[INDENT]a. [GOTO="MOD EDITS"]Mod edits[/GOTO]
+b. [GOTO="NEEDED"]Needed[/GOTO][/INDENT]
+IV. [GOTO="INFO"]Info[/GOTO]
+[INDENT]a. [GOTO="LICENSE"]License[/GOTO]
+b. [GOTO="FAQ"]FAQ[/GOTO]
+c. [GOTO="BIO"]Bio[/GOTO][/INDENT]
+
+[CENTER][SIZE=5]==========[ANCHOR='MODS']MODS[/ANCHOR]=====[ANCHOR='ORIGINALS']ORIGINALS[/ANCHOR]=====[/SIZE][/CENTER]
+[QUOTE][SIZE=5]1. Cultural Appropriation[/SIZE][/QUOTE][SPOILER="Info:"]This set of mods allows the starting outfits of one race to be available to another during character creation as well as villager generation.[/SPOILER]Standard (0.9) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=758357001']steam[/URL] | [URL='http://community.playstarbound.com/resources/4156/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-culapp']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-culapp/archive/master.zip']direct[/URL]
+LOL (0.9) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=758357403']steam[/URL] | [URL='http://community.playstarbound.com/resources/4157/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-culapplol']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-culapplol/archive/master.zip']direct[/URL]
+Repression (0.9) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=758569725']steam[/URL] | [URL='http://community.playstarbound.com/resources/4158/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-culapprep']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-culapprep/archive/master.zip']direct[/URL]
+
+[QUOTE][SIZE=5]2. RPG Start![/SIZE][/QUOTE][SPOILER="Info:"]This set of mods makes the starting outfits in character creation the tier 1 armors. 'Simple' refers to adding in the armors as an additional option, rather than deleting all the other starter outfits.[/SPOILER][SPOILER="alternate versions:"](easy version adds the t6 armors)
+easy [URL='https://github.com/IsaacHart/sbmod-rpgeasy']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgeasy/archive/master.zip']direct[/URL]
+easy-simple [URL='https://github.com/IsaacHart/sbmod-rpgeasysim']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgeasysim/archive/master.zip']direct[/URL]
+easy-cultural [URL='https://github.com/IsaacHart/sbmod-rpgeasycul']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgeasycul/archive/master.zip']direct[/URL]
+easy-s+c [URL='https://github.com/IsaacHart/sbmod-rpgeasysimcul']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgeasysimcul/archive/master.zip']direct[/URL]
+(lol version adds all tiers)
+lol [URL='https://github.com/IsaacHart/sbmod-rpglol']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpglol/archive/master.zip']direct[/URL]
+lol-simple [URL='https://github.com/IsaacHart/sbmod-rpglolsim']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpglolsim/archive/master.zip']direct[/URL]
+lol-cultural [URL='https://github.com/IsaacHart/sbmod-rpglolcul']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpglolcul/archive/master.zip']direct[/URL]
+lol-s+c [URL='https://github.com/IsaacHart/sbmod-rpglolsimcul']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpglolsimcul/archive/master.zip']direct[/URL][/SPOILER]Standard (0.2) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=758570116']steam[/URL] | [URL='http://community.playstarbound.com/resources/4159/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgstart/releases/tag/1.0']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgstart/releases/download/1.0/sbmod-rpgstart-1.0.pak']direct[/URL]
+Simple (1.0) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=763291224']steam[/URL] | [URL='http://community.playstarbound.com/resources/4160/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgsimple/releases/tag/1.0']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgsimple/releases/download/1.0/sbmod-rpgsimple-1.0.pak']direct[/URL]
+Cultural Appropriation (1.0) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=763291482']steam[/URL] | [URL='http://community.playstarbound.com/resources/4161/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgculapp/releases/tag/1.0']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgculapp/releases/download/1.0/sbmod-rpgculapp-1.0.pak']direct[/URL]
+Simple + Cultural (1.0) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=763291854']steam[/URL] | [URL='http://community.playstarbound.com/resources/4162/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgsimcul/releases/tag/1.0']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-rpgsimcul/releases/download/1.0/sbmod-rpgsimcul-1.0.pak']direct[/URL]
+
+[QUOTE][SIZE=5]3. Macho[/SIZE][/QUOTE][SPOILER="Info:"]I found a way to make the chest and leg slots actually blank without adding any assets or producing any generic items.[/SPOILER]Man (0.2) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=762352616']steam[/URL] | [URL='http://community.playstarbound.com/resources/4163/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-macho']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-macho/archive/master.zip']direct[/URL]
+Everything (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=762353009']steam[/URL] | [URL='http://community.playstarbound.com/resources/4164/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-machoev']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-machoev/archive/master.zip']direct[/URL]
+Villagers (0.9) [URL='https://github.com/IsaacHart/sbmod-machovil']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-machovil/archive/master.zip']direct[/URL]
+
+[QUOTE][SIZE=5]4. Babylon 5[/SIZE][/QUOTE][SPOILER="Info:"]This set of mods adds races from Babylon 5.[/SPOILER]Centauri (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=762353266']steam[/URL] | [URL='http://community.playstarbound.com/resources/4167/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-bab5cen']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-bab5cen/archive/master.zip']direct[/URL]
+Minbari (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=762353540']steam[/URL] | [URL='http://community.playstarbound.com/resources/4168/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-bab5min']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-bab5min/archive/master.zip']direct[/URL]
+Narn (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=762353779']steam[/URL] | [URL='http://community.playstarbound.com/resources/4169/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-bab5narn']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-bab5narn/archive/master.zip']direct[/URL]
+Human edits (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=761338417']steam[/URL] | [URL='http://community.playstarbound.com/resources/4166/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-bab5hum']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-bab5hum/archive/master.zip']direct[/URL]
+
+[QUOTE][SIZE=5]5. United States of America English Dialect Translation[/SIZE][/QUOTE][SPOILER="Info:"]Replaces 'colour' with 'color' in character creation screen.[/SPOILER](1.0) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=759329955']steam[/URL] | [URL='http://community.playstarbound.com/resources/4165/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-color/releases/tag/1.0']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-color/releases/download/1.0/sbmod-color-1.0.pak']direct[/URL]
+
+[QUOTE][SIZE=5]6. Villager Tweaks[/SIZE][/QUOTE][SPOILER="Info:"]Small changes to what outfits villagers can spawn with.[/SPOILER]Human (0.9) [URL='https://github.com/IsaacHart/sbmod-vilhum']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-vilhum/archive/master.zip']direct[/URL]
+Avian + Glitch (0.9) [URL='https://github.com/IsaacHart/sbmod-vilavgli']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-vilavgli/archive/master.zip']direct[/URL]
+Protectorate (0.9) [URL='https://github.com/IsaacHart/sbmod-vilprot']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-vilprot/archive/master.zip']direct[/URL]
+
+[QUOTE][SIZE=5]7. Terrestial Generation Tweaks[/SIZE][/QUOTE][SPOILER="Info:"]Trying to recreate the things I love about UGO. Built with truespace compatability in mind.[/SPOILER]Gravity + Size (0.1) [URL='https://github.com/IsaacHart/sbmod-tgtgrasi']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-tgtgrasi/archive/master.zip']direct[/URL]
+
+[QUOTE][SIZE=5]8. Armory Additions[/SIZE][/QUOTE][SPOILER="Info:"]New weapons.[/SPOILER]Quarterstaff (New Item!!!) (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=780877247']steam[/URL] | [URL='http://community.playstarbound.com/resources/4270/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-qsarm']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-qsarm/archive/master.zip']direct[/URL]
+Quarterstaff Extended Submod (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=780877538']steam[/URL] | [URL='http://community.playstarbound.com/resources/4271/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-qsarmext']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-qsarmext/archive/master.zip']direct[/URL]
+
+[QUOTE][SIZE=5]9. Armory Tweaks[/SIZE][/QUOTE][SPOILER="Info:"]Fun additions to randomized weapons.[/SPOILER]Windup Glow (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=782911333']steam[/URL] | [URL='http://community.playstarbound.com/resources/4282/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-windarm']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-windarm/archive/master.zip']direct[/URL]
+Windup Auto (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=782921923']steam[/URL] | [URL='http://community.playstarbound.com/resources/4283/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-windarmauto']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-windarmauto/archive/master.zip']direct[/URL]
+Snub Nose (0.1) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=780443241']steam[/URL] | [URL='http://community.playstarbound.com/resources/4267/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-snarm']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-snarm/archive/master.zip']direct[/URL]
+Spear (0.1) [URL='https://github.com/IsaacHart/sbmod-spearm']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-spearm/archive/master.zip']direct[/URL]
+Spear Multiplayer Friendly (0.1) [URL='https://github.com/IsaacHart/sbmod-spearmmp']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-spearmmp/archive/master.zip']direct[/URL]
+
+
+[QUOTE][SIZE=5]10. Armory Recolor[/SIZE][/QUOTE][SPOILER="Info:"]Rewrite of the way colors get selected for randomized weapons.[/SPOILER]Full (0.1) [URL='http://community.playstarbound.com/resources/4265/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-colarm']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-colarm/archive/master.zip']direct[/URL]
+Full Sample Submod (0.1) [URL='http://community.playstarbound.com/resources/4266/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-colarmsamp']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-colarmsamp/archive/master.zip']direct[/URL]
+Basic (0.1) [URL='https://github.com/IsaacHart/sbmod-colarmbas']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-colarmbas/archive/master.zip']direct[/URL]
+
+[CENTER][SIZE=5]=====[ANCHOR='CONTRIBUTIONS']CONTRIBUTIONS[/ANCHOR]=====[/SIZE][/CENTER]
+[QUOTE][SIZE=5]1. [USER=586940]Forcedminer[/USER][/SIZE][/QUOTE][SPOILER="Info:"]Helped build patch files for shiplocker treasure pools and merchant npcs.[/SPOILER]Legacy Weapons Project | [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=749342005']steam[/URL]
+Civilian Grade EPP | [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=765237065']steam[/URL]
+
+[QUOTE][SIZE=5]1. [USER=222364]sayter[/USER][/SIZE] (et al.)[/QUOTE][SPOILER="Info:"]Quarterstaff and Snub-Nose Tweaks added to one of the best mods in existence in version 4.20[/SPOILER]Frackin' Universe [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=729480149']steam[/URL] | [URL='http://community.playstarbound.com/resources/2920/']forum[/URL]
+
+[CENTER][SIZE=5]=====[ANCHOR='CURATIONS']CURATIONS[/ANCHOR]=====[/SIZE][/CENTER]
+[QUOTE][SIZE=5]NONE[/SIZE][/QUOTE]
+
+[CENTER][SIZE=5]=====[ANCHOR='COLLABORATIONS']COLLABORATIONS[/ANCHOR]=====[/SIZE][/CENTER]
+[QUOTE][SIZE=5]NONE[/SIZE][/QUOTE]
+
+[CENTER][SIZE=5]==========[ANCHOR='ART']ART[/ANCHOR]=====[/SIZE][/CENTER]
+
+All sprite work and as well as any in-progress arts can be found and downloaded from my github.
+[URL]https://github.com/IsaacHart/asset-backup[/URL]
+
+[CENTER][SIZE=5]==========[ANCHOR='REQUESTS']REQUESTS[/ANCHOR]=====[ANCHOR='MOD EDITS']MOD EDITS[/ANCHOR]=====[/SIZE][/CENTER]
+
+I am taking requests for specific versions of any of my mods, or if you would like a group of them batched together.
+
+[CENTER][SIZE=5]=====[ANCHOR='NEEDED']NEEDED[/ANCHOR]=====[/SIZE][/CENTER]
+
+I have a couple projects which i haven't yet figured out how to implement probably because they require LUA. If you know how to LUA and are willing to share credit of the resulting mod feel free to contact me. Else wise the project can just wait until I learn to do it myself.
+
+[CENTER][SIZE=5]==========[ANCHOR='INFO']INFO[/ANCHOR]=====[ANCHOR='LICENSE']LICENSE[/ANCHOR]=====[/SIZE][/CENTER]
+
+Code falls under GPLv3
+Art falls under CC non-commercial
+As far as I have been able to find neither of these violates chucklefish's (chucklefish*sp?) license regarding modders rights but if I am mistaken please link me to the updated information.
+
+[CENTER][SIZE=5]=====[ANCHOR='FAQ']FAQ[/ANCHOR]=====[/SIZE][/CENTER]
+
+Q: What?
+A: I didn't know.
+
+[CENTER][SIZE=5]=====[ANCHOR='BIO']BIO[/ANCHOR]=====[/SIZE][/CENTER]
+
+After a week of requesting small tweaks of other peoples steam workshop mods i decided to stop bothering them and just do it myself. Being self taught and new to both json structure and lua you will find my mods so far to be quite basic and mostly motivated by things I wanted to see in my game.[/SIZE]
